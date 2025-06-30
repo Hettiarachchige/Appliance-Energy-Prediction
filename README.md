@@ -32,4 +32,3 @@ This project uses an LSTM-based model implemented in Google Colab to forecast ap
 - **Evaluation:** MAE, RMSE, R² metrics
 - **Visualization:** Predicted vs. actual energy consumption plots
 
--
